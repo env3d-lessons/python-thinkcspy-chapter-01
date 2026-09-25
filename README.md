@@ -32,22 +32,15 @@ Challenge Exercises are designed for students who wish to go **above and beyond*
 
 # Step 1 – Accept the assignment on GitHub
 
-You will first need to create an account at [https://github.com/](https://github.com/) if you haven’t already.
-You'll also need to understand two key terms:
-
-* **GitHub** is a website where programmers share and collaborate on code.
-* **Git** is the tool programmers use to interact with GitHub.
-
-After creating your account, click on the assignment link provided.
-Accept the assignment. If this is your first time using GitHub Classroom, you may be prompted to link your GitHub account to the class so I can track your progress.
+You will first need to create your own copy of the exercise from the template repository by following the link on the learning management system.
 
 # Step 2 – Launch the code editor
 
-After accepting the assignment, you’ll be taken to your GitHub **repository** (also called a *repo*). A repo is simply a place where your code is stored online.
+After creating from template, you’ll be taken to your GitHub **repository** (also called a *repo*). A repo is simply a place where your code is stored online.
 
 To start coding:
 
-1. Click the **Codespaces** button near the top of the page.
+1. Click the **Codespaces** button near the top of the page under the "Code" button and select "create new codespace:
 2. This will launch **VS Code in your browser**—a powerful, professional-grade code editor.
 
 *Note: The first time it launches, it may take a few minutes.*
